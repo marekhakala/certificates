@@ -28,7 +28,7 @@
  * [Coursera Ruby on Rails Web Services and Integration with MongoDB](certs/Johns_Hopkins_University_Ruby_on_Rails_Web_Services_and_Integration_with_MongoDB.pdf)
  * [Coursera Ruby on Rails HTML CSS and Javascript for Web Developers](certs/Johns_Hopkins_University_Ruby_on_Rails_HTML_CSS_and_Javascript_for_Web_Developers.pdf)
  * [Coursera Ruby on Rails Single Page Web Applications with AngularJS](certs/Johns_Hopkins_University_Ruby_on_Rails_Single_Page_Web_Applications_with_AngularJS.pdf)
- * [ATHENS UPM Accessible Web Design](certs/ATHENS_March_2014_UPM.pdf)
+ * [ATHENS UPM UPM-14: Accessible Web Design](certs/ATHENS_March_2014_UPM.pdf)
  * [Oracle Academy Database Design and Programming with SQL.pdf](certs/Oracle_Academy_Database_Design_and_Programming_With_SQL.pdf)
 
 ## Computer networks
